@@ -1,0 +1,31 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore compiled files
+*.so
+*.dll
+*.dylib
+
+# Ignore media output files
+*.mp4
+*.avi
+*.png
+*.jpg
