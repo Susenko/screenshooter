@@ -27,5 +27,4 @@ logs/
 # Ignore media output files
 *.mp4
 *.avi
-*.png
 *.jpg
