@@ -1,4 +1,5 @@
-pystray
 pillow
 opencv-python
 keyboard
+pycairo
+PyGObject
