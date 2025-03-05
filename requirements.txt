@@ -3,3 +3,5 @@ opencv-python
 keyboard
 pycairo
 PyGObject
+imageio[ffmpeg]
+pyautogui
